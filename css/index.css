@@ -146,3 +146,6 @@ html {
   background: url('../img/home/home-jumbotron.png');
   background-size: cover;
 }
+.row {
+  display: flex;
+}
